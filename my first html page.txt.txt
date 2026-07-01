@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+
+<head>
+
+<title> Self Introduction </title>
+
+</head>
+
+<body>
+            My name is Divya Tayade, and I have recently completed my Bachelor of Computer Applications (BCA) graduation.
+
+I am passionate about technology and continuously learning new skills to build my knowledge in the IT field. During my academic journey, I developed a strong foundation in programming, database management, web development, and computer applications. I am eager to enhance my technical and professional skills through practical experience and continuous learning.
+
+I consider myself a hardworking, quick learner, and a responsible individual who enjoys working in a team and taking on new challenges. I am looking forward to learning from your guidance and making the most of every opportunity.
+
+
+Thank you for giving me the opportunity to introduce myself. I look forward to your valuable guidance and support.
+
+</body>
+
+</html>
